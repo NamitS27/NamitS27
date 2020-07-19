@@ -37,8 +37,8 @@ Hi, I'm Namit Shah a student at School of Engineering and Applied Science,Ahmeda
 <code><a href="https://www.java.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://www.nodejs.org/" target="_blank"><img height="37" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-<code><a href="https://www.photoshop.com/" target="_blank"><img height="50" src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/adobe/Adobe_Photoshop_CC_icon.svg"></a></code>
-<code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></a></code>
+<code><a href="https://www.photoshop.com/" target="_blank"><img height="40" src="https://gitlab.svg.zone/monopolies/monopolies.net/raw/master/logos/adobe/Adobe_Photoshop_CC_icon.svg"></a></code>
+<code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></a></code>
 <code><a href="https://devdocs.io/cpp/" target="_blank"><img height="50" src="/cpp.svg"></a></code>
 <code><a href="https://devdocs.io/c/" target="_blank"><img height="50" src="/c.svg"></a></code>
 #### Show some ❤️ by starring some of the repositories!
