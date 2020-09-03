@@ -22,7 +22,7 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 
 ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Contact [me](mailto:namitshah2711@gmail.com?Subject=Hello%20Namit) 👨‍💻.  
 
-#### Languages and Tools:
+#### Languages and Tools (worked with all atleast once):
 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
