@@ -42,5 +42,3 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 <code><a href="https://devdocs.io/cpp/" target="_blank"><img height="40" src="https://github.com/NamitS27/NamitS27/blob/master/cpp.svg"></a></code>
 <code><a href="https://devdocs.io/c/" target="_blank"><img height="40" src="https://github.com/NamitS27/NamitS27/blob/master/c.svg"></a></code>
 #### Show some ❤️ by starring some of the repositories!
-
-![Namit's github stats](https://github-readme-stats.vercel.app/api?username=NamitS27&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
