@@ -1,4 +1,4 @@
-### Hey 👋🏻, I'm Namit! 
+# Hey 👋🏻, I'm Namit! 
 
 
 <a href="https://www.linkedin.com/in/namit-shah/" target="_blank">
