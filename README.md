@@ -22,6 +22,9 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 
 #### Languages and Tools (worked with all atleast once):
 
+<p float="left">
+
+
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -64,6 +67,7 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
+</p>
 <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> -->
 
 
