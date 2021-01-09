@@ -78,4 +78,4 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitS27&layout=compact&langs_count=6&show_icons=true&theme=radical" />
 
-#### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
