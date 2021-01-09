@@ -1,17 +1,15 @@
 ### Hey 👋🏻, I'm Namit! 
 
 
-<a href="https://www.linkedin.com/in/namit-shah/">
-  <img align="left" alt="Namit's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/namit-shah/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/__namit.__/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-</a>
-<a href="https://www.instagram.com/__namit.__/">
-  <img align="left" alt="Namit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.codechef.com/users/namit27">
-  <img align="left" alt="Namit's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://atcoder.jp/users/namit27" target="_blank">
+<img src=https://img.shields.io/badge/AtCoder--White?&style=for-the-badge alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 <br />
@@ -41,4 +39,12 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 <code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></a></code>
 <code><a href="https://devdocs.io/cpp/" target="_blank"><img height="40" src="https://github.com/NamitS27/NamitS27/blob/master/cpp.svg"></a></code>
 <code><a href="https://devdocs.io/c/" target="_blank"><img height="40" src="https://github.com/NamitS27/NamitS27/blob/master/c.svg"></a></code>
+
+## GitHub Stats
+<h1 align="left">
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NamitS27&show_icons=true&theme=radical" /></a>
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamitS27&layout=compact&langs_count=6&show_icons=true&theme=radical" />
+
 #### Show some ❤️ by starring some of the repositories!
