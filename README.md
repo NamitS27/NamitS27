@@ -11,6 +11,7 @@
 <a href="https://atcoder.jp/users/namit27" target="_blank">
 <img src=https://img.shields.io/badge/AtCoder--White?&style=for-the-badge alt=instagram style="margin-bottom: 5px;" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=NamitS27&color=blueviolet&style=flat">
 
 <br />
 <br />
@@ -66,6 +67,8 @@ Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Ap
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 </p>
 <!-- <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> -->
