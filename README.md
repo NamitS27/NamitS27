@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Namit Shah, currently a 3rd year student at School of Engineering and Applied Science,Ahmedabad University pursuing B-Tech ICT(Information & Communication Technology)
+Hi, I'm Namit Shah, currently a final year student at School of Engineering and Applied Science,Ahmedabad University pursuing B-Tech ICT(Information & Communication Technology)
 
 
 ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Contact [me](mailto:namitshah2711@gmail.com?Subject=Hello%20Namit) 👨‍💻.  
